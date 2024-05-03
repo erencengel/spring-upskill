@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-00-coupling/target/
+/spring-01-bean-annotation/target/
+/spring-02-wiring/target/
